@@ -1,79 +1,49 @@
-# Hi, I'm Pedro 👋
+# Pedro Muradás
 
-### Computational Neuroscience | Data Science 
+Undergraduate researcher at UFABC and USP working at the intersection of
+computational neuroscience and data science. I build analysis pipelines for
+electrophysiological data and apply graph theory and information-theoretic
+methods to study how neural networks organize and break down.
 
-I'm an undergraduate researcher working at the intersection of **computational neuroscience, statistical analysis, and mathematical modeling**. My research involves analyzing electrophysiological data and applying graph theory and information-theoretic methods to investigate neural dynamics and complex systems.
-
-I'm currently expanding my programming and software development skills, with a focus on writing more robust, reproducible, and well-documented scientific code.
-
----
-
-## 🔬 Research & Technical Interests
-
-- **Data Science & Statistics:** exploratory data analysis, statistical inference, and quantitative modeling.
-- **Computational Neuroscience:** electrophysiological signals, neural activity, and network dynamics.
-- **Graph Theory:** network topology, connectivity, and structural network analysis.
-- **Information Theory:** information-theoretic measures for studying interactions and information flow.
-
-## 🛠️ Technologies & Tools
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-### Data Analysis & Scientific Computing
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-### Network Analysis & Statistics
-![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistical_Analysis-5A5A5A?style=flat-square)
-
-### Development Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🚀 Featured Projects
-
-### 1. Neural Network Analysis
-Applying graph theory and information-theoretic methods to electrophysiological data to investigate network topology, neural interactions, and information flow.
-
-**Focus:** network analysis, statistical methods, and computational neuroscience.
-
-### 2. Statistical Modeling of Biological Data
-Developing reproducible workflows for quantitative biological research, including exploratory analysis, statistical modeling, model diagnostics, and visualization.
-
-**Focus:** statistical inference, data analysis, and scientific visualization.
-
-### 3. Electrophysiological Data Analysis
-Computational analysis of neural recordings, including signal processing, spike-train analysis, and quantitative characterization of neural activity.
-
-**Focus:** time series, signal analysis, and scientific computing.
-
-### 4. C Programming & Algorithms
-A learning-oriented collection of C exercises focused on programming fundamentals, algorithms, pointers, recursion, and data structures.
-
-**Focus:** memory management, algorithmic reasoning, and low-level programming.
-
-*Project descriptions above represent research areas and development directions. Individual repositories will document their actual implementation, methods, and results.*
-
-## 📚 Currently Learning
-
-- C programming and algorithm design
-- Software engineering fundamentals and code organization
-- Testing, debugging, and version control workflows
-- Reproducible and maintainable scientific software
-- Statistical modeling and computational methods for data analysis
-
-## 🎯 Long-Term Goals
-
-To develop computational tools and analytical workflows that combine rigorous quantitative methods with reliable software engineering, creating solutions applicable to scientific research and data-driven industries.
+Currently: proteomics of microglial extracellular vesicles at Fiocruz
+(FAPESP-funded), and hippocampal network dynamics in an accelerated-aging
+mouse model — using HD-MEA recordings, transfer entropy, and graph metrics
+to track how small-world topology degrades with age and what caffeine does
+(and doesn't) recover.
 
 ---
 
-## 📫 Connect
+## What I work with
 
-- GitHub: [Explore my repositories](https://github.com/)
+**Languages:** Python · C · R  
+**Analysis:** NumPy · SciPy · pandas · NetworkX · MNE  
+**Methods:** spike-train analysis · graph theory · transfer entropy ·
+statistical modeling · signal processing · bioinformatics
+
+---
+
+## Research
+
+| Project | Question | Methods |
+|---|---|---|
+| Microglial proteomics · Fiocruz 2026 | How does *C. neoformans* rewire host-cell defense? | nanoLC-MS/MS · statistical modeling · Python/R |
+| SAMP8 network dynamics · UFABC/USP 2025– | How do hippocampal networks reorganize in aging? | HD-MEA · graph theory · transfer entropy |
+| Ago2 & retinal waves · UFABC 2024 | What does silencing Ago2 do to developing retinal waves? | MEA · reproducible Python pipelines |
+| NOX2 KO & epilepsy · UFABC 2023 | Does losing NOX2 change seizure dynamics and microglial state? | LFP · time-frequency analysis · immunohistochemistry |
+
+---
+
+## Recognition
+
+- Aristides Pacheco Leão Scholarship Award — FAPESP & Brazilian Academy of Sciences (2026)  
+- IBRO Award (2026)  
+- Honorable Mention, LASCON (2026)  
+- Young Neuroscientist Prize, SBNeC (2025)
+
+---
+
+## Links
+
+[Website](https://pedromuradas.netlify.app) ·
+[LinkedIn](https://www.linkedin.com/in/pedro-muradas-434535415) ·
+[Lattes](http://lattes.cnpq.br/5115814391894058)
