@@ -1,9 +1,6 @@
 # Hi, I'm Pedro 👋
 
-Data scientist and neuroscientist. I build computational pipelines for
-neural data analysis — applying graph theory, information theory, and
-statistical modeling to understand how biological networks are organized
-and how they break down.
+Data scientist and neuroscientist. I build computational pipelines for neural data analysis — applying network theory, information theory, and statistical modeling to understand how information flows, is coded, and reorganizes across brain networks during learning and memory. These same questions drive my interest in machine learning, where similar principles of representation, adaptation, and generalization appear from a different angle.
 
 Currently expanding my programming skills, with a focus on writing code that is robust, reproducible, and built to last.
 
