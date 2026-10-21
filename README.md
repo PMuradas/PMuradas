@@ -27,5 +27,5 @@ Currently expanding my programming skills, with a focus on writing code that is 
 
 ### Links
 
-[🌐 More about me →](https://pedromuradas.netlify.app) ·
+[🌐 More about me here!](https://pedromuradas.netlify.app) ·
 [LinkedIn](https://www.linkedin.com/in/pedro-muradas-434535415) ·
