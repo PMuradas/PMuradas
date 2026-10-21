@@ -1,42 +1,31 @@
-# Pedro Muradás
+# Hi, I'm Pedro 👋
 
-Neuroscientist learning to write software properly.
+Data scientist and neuroscientist. I build computational pipelines for
+neural data analysis — applying graph theory, information theory, and
+statistical modeling to understand how biological networks are organized
+and how they break down.
 
-I work with electrophysiological data — spikes, LFPs, MEA recordings —
-and build analysis pipelines around graph theory and information-theoretic
-methods. My current focus is on writing code that is actually reproducible,
-well-tested, and readable by someone other than me.
-
----
-
-## What I'm working with
-
-**Core:** Python · NumPy · SciPy · pandas · Matplotlib  
-**Networks:** NetworkX  
-**Systems:** Git · Linux · bash  
-**Learning:** C · algorithms · software testing · code architecture
+Currently expanding my programming skills, with a focus on writing code that is robust, reproducible, and built to last.
 
 ---
 
-## What I'm building toward
+### Stack
 
-Clean, well-documented scientific pipelines. The kind where the analysis
-is separable from the data, the figures regenerate from a single command,
-and someone else can actually run it six months later.
-
-Most of my work sits at the intersection of signal processing, network
-analysis, and statistical modeling — applied to neural data, but the
-methods transfer.
+**Languages:** Python · R · C  
+**Areas:** signal processing · network analysis · statistical modeling · machine learning  
+**Tools:** Git · Linux · Jupyter
 
 ---
 
-## Currently
+### Currently
 
-- Applying transfer entropy and graph metrics to HD-MEA hippocampal recordings
-- Learning C from the ground up: pointers, memory, data structures
-- Building toward better software engineering habits in scientific code
+- Quantifying information flow and network topology in hippocampal recordings (MEA)
+- Deepening my C foundations: memory management, algorithms, data structures
+- Building cleaner, more modular scientific workflows
 
 ---
 
-[Website](https://pedromuradas.netlify.app) ·
-[LinkedIn](https://www.linkedin.com/in/pedro-muradas-434535415)
+### Links
+
+[🌐 More about me →](https://pedromuradas.netlify.app) ·
+[LinkedIn](https://www.linkedin.com/in/pedro-muradas-434535415) ·
