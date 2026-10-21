@@ -1,49 +1,42 @@
 # Pedro Muradás
 
-Undergraduate researcher at UFABC and USP working at the intersection of
-computational neuroscience and data science. I build analysis pipelines for
-electrophysiological data and apply graph theory and information-theoretic
-methods to study how neural networks organize and break down.
+Neuroscientist learning to write software properly.
 
-Currently: proteomics of microglial extracellular vesicles at Fiocruz
-(FAPESP-funded), and hippocampal network dynamics in an accelerated-aging
-mouse model — using HD-MEA recordings, transfer entropy, and graph metrics
-to track how small-world topology degrades with age and what caffeine does
-(and doesn't) recover.
+I work with electrophysiological data — spikes, LFPs, MEA recordings —
+and build analysis pipelines around graph theory and information-theoretic
+methods. My current focus is on writing code that is actually reproducible,
+well-tested, and readable by someone other than me.
 
 ---
 
-## What I work with
+## What I'm working with
 
-**Languages:** Python · C · R  
-**Analysis:** NumPy · SciPy · pandas · NetworkX · MNE  
-**Methods:** spike-train analysis · graph theory · transfer entropy ·
-statistical modeling · signal processing · bioinformatics
-
----
-
-## Research
-
-| Project | Question | Methods |
-|---|---|---|
-| Microglial proteomics · Fiocruz 2026 | How does *C. neoformans* rewire host-cell defense? | nanoLC-MS/MS · statistical modeling · Python/R |
-| SAMP8 network dynamics · UFABC/USP 2025– | How do hippocampal networks reorganize in aging? | HD-MEA · graph theory · transfer entropy |
-| Ago2 & retinal waves · UFABC 2024 | What does silencing Ago2 do to developing retinal waves? | MEA · reproducible Python pipelines |
-| NOX2 KO & epilepsy · UFABC 2023 | Does losing NOX2 change seizure dynamics and microglial state? | LFP · time-frequency analysis · immunohistochemistry |
+**Core:** Python · NumPy · SciPy · pandas · Matplotlib  
+**Networks:** NetworkX  
+**Systems:** Git · Linux · bash  
+**Learning:** C · algorithms · software testing · code architecture
 
 ---
 
-## Recognition
+## What I'm building toward
 
-- Aristides Pacheco Leão Scholarship Award — FAPESP & Brazilian Academy of Sciences (2026)  
-- IBRO Award (2026)  
-- Honorable Mention, LASCON (2026)  
-- Young Neuroscientist Prize, SBNeC (2025)
+Clean, well-documented scientific pipelines. The kind where the analysis
+is separable from the data, the figures regenerate from a single command,
+and someone else can actually run it six months later.
+
+Most of my work sits at the intersection of signal processing, network
+analysis, and statistical modeling — applied to neural data, but the
+methods transfer.
 
 ---
 
-## Links
+## Currently
+
+- Applying transfer entropy and graph metrics to HD-MEA hippocampal recordings
+- Learning C from the ground up: pointers, memory, data structures
+- Building toward better software engineering habits in scientific code
+
+---
 
 [Website](https://pedromuradas.netlify.app) ·
-[LinkedIn](https://www.linkedin.com/in/pedro-muradas-434535415) ·
-[Lattes](http://lattes.cnpq.br/5115814391894058)
+[LinkedIn](https://www.linkedin.com/in/pedro-muradas-434535415)
