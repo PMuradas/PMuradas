@@ -1,6 +1,6 @@
 # Hi, I'm Pedro 👋
 
-### Computational Neuroscience | Data Science | Scientific Computing
+### Computational Neuroscience | Data Science 
 
 I'm an undergraduate researcher working at the intersection of **computational neuroscience, statistical analysis, and mathematical modeling**. My research involves analyzing electrophysiological data and applying graph theory and information-theoretic methods to investigate neural dynamics and complex systems.
 
@@ -14,7 +14,6 @@ I'm currently expanding my programming and software development skills, with a f
 - **Computational Neuroscience:** electrophysiological signals, neural activity, and network dynamics.
 - **Graph Theory:** network topology, connectivity, and structural network analysis.
 - **Information Theory:** information-theoretic measures for studying interactions and information flow.
-- **Scientific Computing:** computational methods for quantitative research and reproducible analysis.
 
 ## 🛠️ Technologies & Tools
 
@@ -36,8 +35,6 @@ I'm currently expanding my programming and software development skills, with a f
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-*Tools listed here reflect my scientific computing workflow and technical interests. My experience varies by tool, and I am continuously developing my software engineering skills.*
 
 ## 🚀 Featured Projects
 
